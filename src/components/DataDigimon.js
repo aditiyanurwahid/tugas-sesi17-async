@@ -29,6 +29,3 @@ function DatadDigimon() {
 }
 
 export default DatadDigimon;
-
-{
-}
